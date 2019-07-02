@@ -1,0 +1,48 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.109 seconds
+Platform assembly: C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Fred\Documents\Jack the Giant\jack_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on GameManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.224272 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.790963 ms
+
+Unloading 22 unused Assets to reduce memory usage. Loaded Objects now: 538.
+Total: 0.374802 ms (FindLiveObjects: 0.024782 ms CreateObjectMapping: 0.012007 ms MarkObjects: 0.202091 ms  DeleteObjects: 0.135409 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.011674 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 538.
+Total: 0.505357 ms (FindLiveObjects: 0.053141 ms CreateObjectMapping: 0.033724 ms MarkObjects: 0.410060 ms  DeleteObjects: 0.007409 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 83e4 -> priority: 1 
+  Thread -> id: 7148 -> priority: 1 
